@@ -1,8 +1,8 @@
 # 🛡️ SOC L2 · Analizador de Incidentes
 
-<img width="1860" height="809" alt="image" src="[https://github.com/user-attachments/assets/d71e55a6-161e-4671-bbf7-be169dd52efe](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png)" />
+[<img width="1860" height="809" alt="image" src="[https://github.com/user-attachments/assets/d71e55a6-161e-4671-bbf7-be169dd52efe](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png)" />](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png)
 
-<img width="1860" height="809" alt="image" src="[[https://github.com/user-attachments/assets/d71e55a6-161e-4671-bbf7-be169dd52efe](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_175028_lqjpio.png))" />
+[https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174627_k4z4pa.png](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174627_k4z4pa.png)
 
 
 Aplicación web de análisis de seguridad nivel 2 (SOC L2) que importa logs exportados de un SIEM en Excel, detecta indicadores de compromiso (IOC), correlaciona eventos para determinar si hubo uno o varios incidentes, clasifica el riesgo y genera dos informes en PDF: uno técnico y otro ejecutivo para la Dirección.
