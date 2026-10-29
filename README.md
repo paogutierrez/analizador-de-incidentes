@@ -1,6 +1,6 @@
 # 🛡️ SOC L2 · Analizador de Incidentes
 
-![Texto alternativo]((https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png))
+![Texto alternativo](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174459_zalccj.png))
 
 
 ![Texto alternativo](https://res.cloudinary.com/do2ijjhfn/image/upload/v1793314335/Captura_de_pantalla_2026-10-29_174627_k4z4pa.png)
